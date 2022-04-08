@@ -1,5 +1,6 @@
 <application>
   <component name="Git.Application.Settings">
-    <option name="myPathToGit" value="https://github.com/Golsa-Eft/EcommerceProject.git" />
+    <option name="myPathToGit" value="https://github.com/Golsa-Eft" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="false" />
   </component>
 </application>
